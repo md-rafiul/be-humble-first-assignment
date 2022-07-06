@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0;
+}
+
+/* Start of footer section*/
+footer {
+  height: 177px;
+  background-color: #0b0d17;
+}
+footer h1 {
+  color: #ff5959;
+}
+footer p {
+  color: gray;
+}
+.footer-text {
+  float: center;
+}
